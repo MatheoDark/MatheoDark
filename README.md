@@ -30,7 +30,7 @@
 <p align="center">
   <!-- Reemplaza con tus tecnologías. Encuentra más iconos en: https://github.com/tandpfun/skill-icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=bots,js,linux,nodejs,discord,docker,git&perline=5" />
   </a>
 </p>
 
