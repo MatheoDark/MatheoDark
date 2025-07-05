@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN4NDk0emxjMmhpOXAzZXNjNmR2cmF3MnB1d204anhzYW14OWY0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8QEPXgFem3wS5g8El8/giphy.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/MatheoDark/MatheoDark/refs/heads/main/D12E6246-04EC-4334-9F47-9F8C90F4C2D2.gif" width="600"/>
 
   <h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9400D3¢er=true&vCenter=true&width=500&lines=Hola!+Soy+MatheoDark;mas+conocido+como;Darksito...;Bienvenidos" alt="Typing SVG" /></a>
@@ -70,5 +70,5 @@
 
 <div align="center">
   <h3>Darksito, desconectando... (｡•̀ᴗ-)✧</h3>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <img src="./AC37E158-F083-48F4-9256-1AC5AD88876E.gif" width="500"/>
 </div>
